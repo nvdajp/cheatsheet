@@ -1,10 +1,12 @@
 # NVDAチートシート
 
 西本卓也 (株式会社シュアルタ)
+
 Takuya Nishimoto (Shuaruta Inc.)
 
 このデータは2018年5月に印刷物として作成してイベント等で配布した
 NVDA チートシートの改訂版（2023年5月 バージョン 230518）です。
+
 Microsoft PowerPoint ファイルと Antenna House PDF Driver 8.0 で作成した PDF ファイル、および markdown 版を公開します。
 
 ## 主な変更点
