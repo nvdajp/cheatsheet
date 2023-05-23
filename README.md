@@ -7,7 +7,7 @@ Takuya Nishimoto (Shuaruta Inc.)
 このデータは2018年5月に印刷物として作成してイベント等で配布した
 NVDA チートシートの改訂版（2023年5月 バージョン 230518）です。
 
-Microsoft PowerPoint ファイルと Antenna House PDF Driver 8.0 で作成した PDF ファイル、および markdown 版を公開します。
+Microsoft PowerPoint ファイルと Antenna House PDF Driver 8.0 で作成した PDF ファイル、約 3500 x および 2500 ピクセルの PNG ファイル、markdown 版を公開します。
 
 ## 主な変更点
 
@@ -18,6 +18,7 @@ Microsoft PowerPoint ファイルと Antenna House PDF Driver 8.0 で作成し�
 * 1文字ナビゲーションの説明に NVDA+K の記載を追加しました。
 * 読み上げモード NVDA+S の説明を追加しました。
 * markdown 版を追加しました。
+* PNG ファイルを追加しました。
 
 ### 210523
 
