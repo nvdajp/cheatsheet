@@ -7,7 +7,7 @@ Takuya Nishimoto (Shuaruta Inc.)
 このデータは2018年5月に印刷物として作成してイベント等で配布した
 NVDA チートシートの改訂版です。
 
-Microsoft PowerPoint ファイルと Antenna House PDF Driver 8.0 で作成した PDF ファイル、約 3500 x および 2500 ピクセルの PNG ファイル、markdown 版を公開します。
+Microsoft PowerPoint ファイルと Antenna House PDF Driver 8.0 で作成した PDF ファイル、約 3500 x 2500 ピクセルの PNG ファイル、および markdown 版を公開します。
 
 PowerPoint ファイルと PDF のアクセシビリティは不完全であることをご了承ください。
 
