@@ -5,11 +5,20 @@
 Takuya Nishimoto (Shuaruta Inc.)
 
 このデータは2018年5月に印刷物として作成してイベント等で配布した
-NVDA チートシートの改訂版（2023年5月 バージョン 230518）です。
+NVDA チートシートの改訂版です。
 
 Microsoft PowerPoint ファイルと Antenna House PDF Driver 8.0 で作成した PDF ファイル、約 3500 x および 2500 ピクセルの PNG ファイル、markdown 版を公開します。
 
+PowerPoint ファイルと PDF のアクセシビリティは不完全であることをご了承ください。
+
 ## 主な変更点
+
+### 240516
+
+* ライセンスを CC0 1.0 から CC BY 4.0 に変更しました。
+* テーブル内の移動、選択中のテキスト、オブジェクトナビゲーションに関する説明を追加しました。
+* ブラウズモード対応アプリの紹介を削除しました。
+* ビジュアルハイライトとブラウズモードの説明を並べるために、コンテンツの配置を変更しました。ただし markdown 版については、コンテンツの順序をなるべく変えないように更新しました。
 
 ### 230518
 
@@ -34,4 +43,4 @@ Microsoft PowerPoint ファイルと Antenna House PDF Driver 8.0 で作成し�
 ## 引用した著作物
 
 * NVDA アイコン (NV Access)
-* NVDAJP アイコン: [NVDAJP キャラクタ「でめきん」](https://ja.osdn.net/projects/nvdajp/images/#id3176) (炉部愛 CC BY-SA 2.1) より
+* NVDAJP アイコン: NVDAJP キャラクタ「でめきん」(炉部愛 CC BY-SA 2.1) より
